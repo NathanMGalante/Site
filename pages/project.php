@@ -13,7 +13,7 @@
 				</div>
 				<div class="pjt-links">
 					<a href="<?php echo INCLUDE_PATH; ?>home"><p>Página do projeto.</p></a>
-					<a href=""><p>Github (em breve...)</p></a>
+					<a href="https://github.com/NathanMGalante/Site"><p>Github</p></a>
 				</div>
 			</div>
 		</div><!--projects-single-->
