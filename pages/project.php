@@ -7,28 +7,27 @@
 				<h2 class="title">Meu Site</h2>
 				<div class="pjt-description">					
 					<div>
-						<p>Este é o projeto deste site, em breve colocarei o código dele no github.</p>
+						<p>Este é o projeto deste site.</p>
 					</div>
 					<img src="../resources/portfolio.png">
 				</div>
 				<div class="pjt-links">
-					<a href="<?php echo INCLUDE_PATH; ?>home"><p>Página do projeto.</p></a>
 					<a href="https://github.com/NathanMGalante/Site"><p>Github</p></a>
+					<a href="<?php echo INCLUDE_PATH; ?>home"><p>Página do projeto.</p></a>					
 				</div>
 			</div>
 		</div><!--projects-single-->
 		<div class="projects-single">
 			<div class="projects-single-internal">
-				<h2 class="title">Teste</h2>
+				<h2 class="title">CalcBest</h2>
 				<div class="pjt-description">					
 					<div>
-						<p>Testando descrição.</p>
+						<p>Projeto de uma calculadora, cujo objetivo é ter um controle bom sobre os cálculos, além de tambem trazer uma explicação de como fazer para chegar ao resultado.</p>
 					</div>
-					<img src="../resources/test.png">
+					<img src="../resources/calcbest.png">
 				</div>
 				<div class="pjt-links">
-					<br/>
-					<a href=""></a>
+					<a href="https://github.com/NathanMGalante/CalcBest"><p>Github</p></a>
 				</div>
 			</div>
 		</div><!--projects-single-->
