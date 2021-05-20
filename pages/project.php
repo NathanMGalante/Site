@@ -13,7 +13,7 @@
 				</div>
 				<div class="pjt-links">
 					<a href="https://github.com/NathanMGalante/Site"><p>Github</p></a>
-					<a href="<?php echo INCLUDE_PATH; ?>home"><p>Página do projeto.</p></a>					
+					<a href="<?php echo INCLUDE_PATH; ?>home"><p>Página do projeto.</p></a>						
 				</div>
 			</div>
 		</div><!--projects-single-->
@@ -41,8 +41,6 @@
 					<img src="../resources/test.png">
 				</div>
 				<div class="pjt-links">
-					<br/>
-					<a href=""></a>
 				</div>
 			</div>
 		</div><!--projects-single-->
